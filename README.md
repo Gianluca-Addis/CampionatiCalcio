@@ -9,3 +9,8 @@ The goals of this application are :
   2.Put informations in a DataBase(mysql);
   3.Use php/html/mysql to create a web site with every information.
   
+  
+#Architecture
+
+  ![immagine](https://cloud.githubusercontent.com/assets/15092091/10766104/2cab0cbe-7cd6-11e5-9fb9-7b98a8300eed.png)
+  
