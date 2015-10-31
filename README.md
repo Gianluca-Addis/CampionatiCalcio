@@ -5,9 +5,9 @@ This is my first web site for describe each ranking in real time about each nati
 
 ##Goals
 The goals of this application are :
-  1.Get informations ,about the championships, from a web site;
-  2.Put informations in a DataBase(mysql);
-  3.Use php/html/mysql to create a web site with every information.
+  1. Get informations ,about the championships, from a web site;
+  2. Put informations in a DataBase(mysql);
+  3. Use php/html/mysql to create a web site with every information.
   
   
 #Architecture
