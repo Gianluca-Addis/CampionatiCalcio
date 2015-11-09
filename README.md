@@ -1,3 +1,7 @@
+#GIANLUCA ADDIS
+  I'm Gianluca Addis,I'm eighteen and I study informatic in Cagliari.
+  This is my first repository,about football.I had this idea for my football passion.
+
 # CampionatiCalcio by Gianluca 
 
 ##introduction 
