@@ -2,7 +2,7 @@
   I'm Gianluca Addis,I'm eighteen and I study informatic in Cagliari.
   This is my first repository,about football.I had this idea for my football passion.
 
-# CampionatiCalcio by Gianluca 
+# Campionati Calcio  
 
 ##introduction 
 This is my first web site for describe each ranking in real time about each national european championships.
